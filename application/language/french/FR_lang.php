@@ -48,26 +48,26 @@ $lang['cancel'] = 'annuler';
 
 //Admin
 //
-$lang['admin_dashboard'] = ' ';
-$lang['admin_page_title'] = ' ';
-$lang['admin_form_contact'] = ' ';
-$lang['admin_info_title'] = ' ';
-$lang['admin_configuration'] = ' ';
+$lang['admin_dashboard'] = 'Administer';
+$lang['admin_page_title'] = 'Calendrier';
+$lang['admin_form_contact'] = 'Mes coordonnées';
+$lang['admin_info_title'] = 'information de base';
+$lang['admin_configuration'] = 'configuration';
 
 //Tables
 //
-$lang['admin_level_2'] = ' ';
-$lang['admin_level_1'] = ' ';
-$lang['admin_status_1'] = ' ';
-$lang['admin_status_0'] = ' ';
+$lang['admin_level_2'] = 'Privilèges administrateur';
+$lang['admin_level_1'] = 'Privilèges utilisateur';
+$lang['admin_status_1'] = 'Vérrouillé';
+$lang['admin_status_0'] = 'Dévérouillé';
 
 //Modal 
 //user
-$lang['admin_modal_edit_user'] = ' ';
-$lang['admin_modal_delete_user'] = ' ';
-$lang['admin_modal_add_user'] = ' ';
+$lang['admin_modal_edit_user'] = 'Modifier les informations utilisateur';
+$lang['admin_modal_delete_user'] = 'Supprimer les informations utilisateur';
+$lang['admin_modal_add_user'] = 'Ajouter les informations utilisateur';
 //calendar
-$lang['admin_modal_delete_calendar'] = ' ';
+$lang['admin_modal_delete_calendar'] = 'Supprimer les informations du calendrier';
 
 
 $lang['admin_modal_member_since'] = ' ';
@@ -75,25 +75,25 @@ $lang['admin_modal_member_last_log'] = ' ';
 $lang['admin_modal_ip'] = ' ';
 
 //Columns
-$lang['admin_table_username'] = ' ';
-$lang['admin_table_fname'] = ' ';
-$lang['admin_table_lname'] = ' ';
-$lang['admin_table_address'] = ' ';
-$lang['admin_table_phone'] = ' ';
-$lang['admin_table_email'] = ' ';
-$lang['admin_table_password'] = ' ';
-$lang['admin_table_level'] = ' ';
-$lang['admin_table_status'] = ' ';
-$lang['admin_table_edit'] = ' ';
+$lang['admin_table_username'] = 'Membre depuis';
+$lang['admin_table_fname'] = 'Prénom';
+$lang['admin_table_lname'] = 'Nom';
+$lang['admin_table_address'] = 'Adresse';
+$lang['admin_table_phone'] = 'Téléphone';
+$lang['admin_table_email'] = 'Email';
+$lang['admin_table_password'] = 'Mot de passe';
+$lang['admin_table_level'] = 'Privilèges';
+$lang['admin_table_status'] = 'Status';
+$lang['admin_table_edit'] = 'Editer';
 
-$lang['admin_table_event_title'] = ' ';
-$lang['admin_table_event_description'] = ' ';
-$lang['admin_table_event_start'] = ' ';
-$lang['admin_table_event_end'] = ' ';
-$lang['admin_table_event_allday'] = ' ';
-$lang['admin_table_event_type'] = ' ';
-$lang['admin_table_event_noshow'] = ' ';
-$lang['admin_table_event_show'] = ' ';
+$lang['admin_table_event_title'] = 'Titre';
+$lang['admin_table_event_description'] = 'Description';
+$lang['admin_table_event_start'] = 'Date de début';
+$lang['admin_table_event_end'] = 'Date de fin';
+$lang['admin_table_event_allday'] = 'Tous les jours';
+$lang['admin_table_event_type'] = 'Public/privé';
+$lang['admin_table_event_noshow'] = 'Privé';
+$lang['admin_table_event_show'] = 'Public';
 
  
 //Profile
