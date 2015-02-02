@@ -11,7 +11,7 @@
 //Common words
 //
 $lang['home'] = ' ';
-$lang['calendar'] = ' ';
+$lang['calendar'] = 'calendrier ';
 $lang['events'] = ' ';
 $lang['current_v'] = ' ';
 $lang['dashboard'] = ' ';
