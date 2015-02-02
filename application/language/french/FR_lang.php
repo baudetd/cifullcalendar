@@ -217,7 +217,7 @@ $lang['submenu_dropdown_all_sources'] = ' ';
   
 //Calendar Modal
 //
-$lang['calendar_title'] = ' ';
+$lang['calendar_title'] = 'titre du calendrier';
 $lang['calendar_title_public'] = ' ';
 $lang['calendar_loading_title'] = ' ';
 $lang['calendar_export'] = ' ';
@@ -291,7 +291,7 @@ $lang['categories_message_warning'] = ' ';
 //
 $lang['sources_all_heading'] = ' ';
 //Add
-$lang['sources_add_new'] = ' ';
+$lang['sources_add_new'] = 'ajout de nouvelles sources';
 $lang['sources_input_name'] = ' ';
 $lang['sources_input_url'] = ' ';
 
@@ -323,10 +323,10 @@ $lang['settings_form_submit_button'] = ' ';
  
 //Error
 // 
-$lang['error_not_found'] = ' ';
-$lang['error_page_title'] = ' ';
+$lang['error_not_found'] = 'erreur non trouvée';
+$lang['error_page_title'] = 'erreur titre de la page';
 $lang['error_not_found_page_title'] = ' ';
-$lang['error_sending_email'] = ' ';
-$lang['error_creating_password'] = ' ';
+$lang['error_sending_email'] = 'erreur lors de l envoi d email';
+$lang['error_creating_password'] = 'erreur lors de la création du mot de passe';
 
  
