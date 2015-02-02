@@ -11,10 +11,10 @@
 //Common words
 //
 $lang['home'] = ' ';
-$lang['calendar'] = ' ';
-$lang['events'] = ' ';
+$lang['calendar'] = 'calendrier ';
+$lang['events'] = ' évenements';
 $lang['current_v'] = ' ';
-$lang['dashboard'] = ' ';
+$lang['dashboard'] = 'tableua de bord ';
 $lang['share'] = ' ';
 $lang['users'] = ' ';
 $lang['user'] = ' ';
